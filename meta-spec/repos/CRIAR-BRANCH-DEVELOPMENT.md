@@ -3,7 +3,7 @@
 ## Execute no Terminal WSL:
 
 ```bash
-chmod +x criar-branch-development.sh && ./criar-branch-development.sh
+chmod +x scripts/criar-branch-development.sh && ./scripts/criar-branch-development.sh
 ```
 
 ## O que o script faz:

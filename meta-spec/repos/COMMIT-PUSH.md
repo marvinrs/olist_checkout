@@ -3,7 +3,7 @@
 ## Execute no Terminal WSL:
 
 ```bash
-chmod +x commit-e-push.sh && ./commit-e-push.sh
+chmod +x scripts/commit-e-push.sh && ./scripts/commit-e-push.sh
 ```
 
 ## O que o script faz:

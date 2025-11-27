@@ -5,8 +5,8 @@
 Execute no terminal WSL:
 
 ```bash
-chmod +x gerar-chave-ssh-github.sh
-./gerar-chave-ssh-github.sh
+chmod +x scripts/gerar-chave-ssh-github.sh
+./scripts/gerar-chave-ssh-github.sh
 ```
 
 ## Opção 2: Comandos Manuais

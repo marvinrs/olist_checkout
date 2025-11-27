@@ -5,7 +5,7 @@
 Copie e cole este comando no terminal WSL:
 
 ```bash
-chmod +x gerar-chave-ssh-agora.sh && ./gerar-chave-ssh-agora.sh
+chmod +x scripts/gerar-chave-ssh-agora.sh && ./scripts/gerar-chave-ssh-agora.sh
 ```
 
 ## Ou Execute os Comandos Manualmente

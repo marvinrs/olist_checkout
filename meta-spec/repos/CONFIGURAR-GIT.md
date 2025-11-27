@@ -9,7 +9,7 @@ Agora vamos configurar o Git para usar sua chave SSH automaticamente.
 Execute no terminal WSL:
 
 ```bash
-chmod +x configurar-git-ssh.sh && ./configurar-git-ssh.sh
+chmod +x scripts/configurar-git-ssh.sh && ./scripts/configurar-git-ssh.sh
 ```
 
 ## Opção 2: Configuração Manual

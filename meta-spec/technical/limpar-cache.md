@@ -4,8 +4,8 @@ Execute os seguintes comandos no terminal (WSL, PowerShell ou CMD):
 
 ## Opção 1: Script Automático (Linux/WSL)
 ```bash
-chmod +x fix-jwt-error.sh
-./fix-jwt-error.sh
+chmod +x scripts/fix-jwt-error.sh
+./scripts/fix-jwt-error.sh
 ```
 
 ## Opção 2: Script Automático (Windows)
